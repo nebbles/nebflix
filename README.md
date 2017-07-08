@@ -1,3 +1,6 @@
-## Welcome to Nebflix
+# Nebflix
 
-If Nebflix is live, you should be redirected shortly. If you are not redirected this means that Nebflix is currently down for maintenance.
+### Welcome to the Nebflix host page
+
+If Nebflix is live, users should be redirected automatically from the page to the Plex server page.  
+If users are not redirected then information (such as maintenance) will be displayed on the webpage.
