@@ -7,3 +7,4 @@ If users are not redirected then information (such as maintenance) will be displ
 
  - [ ] Catch. With ShowRSS.
  - [ ] [CouchPotato](https://couchpota.to/)
+ - [ ] [Hazel](https://www.noodlesoft.com/)
