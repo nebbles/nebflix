@@ -2,17 +2,22 @@
 
 ### Welcome to the Nebflix host page
 
-If Nebflix is live, users should be redirected automatically from the page to the Plex server page.  
-If users are not redirected then information (such as maintenance) will be displayed on the webpage.
+[Nebflix.uk](http://nebflix.uk) is the home page to the media server. Information is displayed here as well as a link to get to Plex.  
+Content can be viewed at [watch.nebflix.uk](http://watch.nebflix.uk) linked to on the Home page.  
+Maintenance or other issues will be put on the Home page.
 
- - [ ] Catch. With ShowRSS.
- - [ ] [CouchPotato](https://couchpota.to/)
- - [ ] [Hazel](https://www.noodlesoft.com/)
+Software in use:
+- [x] [showRSS](http://showrss.info/) - RSS Feed of TV shows episodes linking to torrent.
+- [x] [Catch](http://giorgiocalderolla.com/catch.html) - Watch RSS feed and automatically add to preferred BT client.
+- [x] [uTorrent](http://www.utorrent.com/) - Download torrent and move to a '_Completed Download_' folder.
+- [x] [Hazel](https://www.noodlesoft.com/) - Watch '_Completed Download_' folder and move new files to the correct directories.
 
-__Migrate Plex Server to new Macintosh__  
-[Move an Install to Another System](https://support.plex.tv/hc/en-us/articles/201370363-Move-an-Install-to-Another-System)
+- [ ] [CouchPotato](https://couchpota.to/)
+
 
 ### Migration
+
+[__Move an Install to Another System (Plex)__](https://support.plex.tv/hc/en-us/articles/201370363-Move-an-Install-to-Another-System)
 
 Migration was carried out for the following applications:
  - Hazel (to move the 'rules')
